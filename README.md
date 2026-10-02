@@ -32,7 +32,7 @@
 
 <p align="center"><b>Ferramentas & Bancos de Dados</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,idea" alt="Ferramentas" />
 </p>
 
 ---
