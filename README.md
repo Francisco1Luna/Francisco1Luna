@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>Estudante de Ciência da Computação</b><br>
-  <code>Backend Developer | Java & Python</code>
+  <code>Backend Developer | Java, Spring Boot & Python</code>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=BUILDING+THE+FUTURE;BACKEND+DEVELOPER;JAVA+%26+PYTHON" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=BUILDING+THE+FUTURE;BACKEND+DEVELOPER;JAVA+%26+SPRING+BOOT;REST+APIS+%26+PYTHON" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 🎓 Estudante de **Ciência da Computação** na UFRPE.
 
-💻 Atualmente focado em **desenvolvimento backend**, arquitetura de software, bancos de dados e boas práticas.
+💻 Atualmente focado em **desenvolvimento backend**, arquitetura de software, construção de **APIs RESTful**, bancos de dados e boas práticas.
 
 🚀 Gosto de transformar o que aprendo em **projetos práticos**, construindo soluções eficientes e estruturadas.
 
@@ -25,9 +25,9 @@
 
 ### 🛠️ Tecnologias e ferramentas
 
-<p align="center"><b>Linguagens</b></p>
+<p align="center"><b>Linguagens & Frameworks</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python" alt="Linguagens e Frameworks" />
 </p>
 
 <p align="center"><b>Ferramentas & Bancos de Dados</b></p>
